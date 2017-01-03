@@ -7,7 +7,7 @@
 		xmlns:local="clr-namespace:ImgurSniper.UI" Background="Transparent"
 		xmlns:toasty="clr-namespace:Toast;assembly=Toast"
 		mc:Ignorable="d" MinHeight="470" MinWidth="575" 
-		Title="Imgur Sniper Settings" Height="470" Width="575">
+		Title="Imgur Sniper Settings">
 
 
 	<!--<md:Card HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{DynamicResource MaterialDesignPaper}">-->

@@ -1,4 +1,4 @@
-#<img src="https://github.com/mrousavy/ImgurSniper/raw/master/Images/Logo.png" width="42"> ImgurSniper
+#<img src="https://github.com/mrousavy/ImgurSniper/raw/master/Images/Logo.png" width="42"> ImgurSniper (Uncompiled .UI Size Fix)
 An alternative to Windows' built in _Snipping Tool_ with **auto Imgur Upload** or **Image to Clipboard Copy** for even faster Image sharing.
 
 # Downloads

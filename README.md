@@ -3,6 +3,8 @@ An alternative to Windows' built in _Snipping Tool_ with **auto Imgur Upload** o
 
 # Downloads
 [![Downloads](https://img.shields.io/badge/Version-1.0.0.5-brightgreen.svg)](https://github.com/mrousavy/ImgurSniper/releases)
+[![Build Status](https://travis-ci.org/snak1109/ImgurSniper.svg?branch=master)](https://travis-ci.org/snak1109/ImgurSniper)
+
 ### [⇩ Imgur Sniper v1.0.2.3 (5.197KB) (UI Version) (Extractor) (Recommended)](https://github.com/mrousavy/ImgurSniper/blob/master/ImgurSniperInstaller/bin/Release/ImgurSniperInstaller.exe?raw=true)
 
 #### [⇩ Imgur Sniper v1.0.2.3 (2.412KB) (UI Version) (Archive)](https://github.com/mrousavy/ImgurSniper/blob/master/ImgurSniper.UI/bin/Release/ImgurSniper.UI.zip?raw=true)
